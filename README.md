@@ -1,8 +1,5 @@
 # Pit
 
-A peer-2-peer git clone, based on IPFS and Ceramic.
-
-
-
-
-
+A distributed, peer-to-peer, high-crypto,
+revision control and package management
+system, based on ceramic.
